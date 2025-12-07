@@ -58,3 +58,8 @@ We welcome contributions to improve Zane's Optimizer! Here's how you can help:
 5. **Submit a Pull Request** with clear description of changes
 
 Please ensure your code follows the existing style and includes appropriate comments.
+
+---
+
+## Contributions
+### 1. Icon preparation by ![Shad C T](https://github.com/shad-ct) 
